@@ -1,0 +1,94 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* .container-fluid{
+    background-color: aqua;
+    height: 150px;
+} */
+
+.site-header {
+    min-height: 120px;
+}
+
+.site-header .navbar {
+    margin-top:29px;
+}
+
+
+.main-menu-wrapper {
+    background-color: #535353;
+    min-height: 120px;
+}
+
+.logo-container {
+    height: 120px;
+}
+
+.header-logo img {
+    max-height: 70px;
+    margin-top: 27px;
+}
+
+.main-menu-wrapper .nav-item .nav-link {
+    color: #f5f5f5;
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.main-menu-wrapper .nav-item .nav-link:hover,
+.main-menu-wrapper .nav-item .nav-link a:active {
+    background-color: #cd2122;
+    border-radius: 5px;
+}
+
+
+.submission-form {
+    background-color: #c5c4c4;
+    min-height: 700px;
+}
+
+.submission-form .main-form {
+    background-color: #f7f7f7;
+    min-height: 360px;
+    margin-top: 27px;
+    border-radius: 5px;
+}
+
+
+/* .image-upload {
+    background-color: #f7f7f7;
+    min-height: 600px;
+    border-radius: 5px;
+} */
+
+/* .image-file img {
+    height: 550px;
+    width: 70%;
+    border: 2px solid grey;
+    border-radius: 8px;
+    margin-top: 40px;
+    margin-bottom: 22px;
+} */
+
+
+/* uploading Image css............ */
+
+.img-item{
+    height: 580px;
+    width: 468px;
+    border: 2px solid grey;
+    border-radius: 8px;
+    margin-top: 40px;
+    margin-bottom: 22px;
+}
+
+.img-container .row{
+    background-color: #f7f7f7;
+    border-radius: 5px;
+    margin-top: 8px;
+}
+
